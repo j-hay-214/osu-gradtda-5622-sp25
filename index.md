@@ -120,6 +120,6 @@ There might be tentative bonus points assigned for harder math or cs problems. M
 
 </table>
 
-#### Site created by Greg Ryslik for Spring 2024 term. Adapted for Spring 2025 term.
+#### Site created by Greg Ryslik (gryslik) for Spring 2024 term. Adapted for Spring 2025 term.
 
 {{ page.last_modified_at }}
